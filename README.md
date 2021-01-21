@@ -1,4 +1,4 @@
-[![Austin's GitHub Banner](./assets/GitHubHeader.png)](https://austincondiff.com)
+[![Austin's GitHub Profile Header](./assets/GitHubHeader.jpg)](https://austincondiff.com)
 
 [![Visits Badge](https://badges.pufler.dev/visits/austincondiff/austincondiff)](https://austincondiff.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://codesandbox.com/austincondiff)
