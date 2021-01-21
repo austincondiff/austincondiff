@@ -12,21 +12,13 @@
 [![Visits Badge](https://badges.pufler.dev/visits/austincondiff/austincondiff?style=for-the-badge)](https://austincondiff.com)
 
 
-Howdy! 👋
+## `👋` Howdy! 
 
 I’m Austin, a senior UI designer and engineer, creative coder who specializes in front-end development. My goal is to create beautiful user-centric designs and translate them into pixel-perfect performant websites or applications. I strive to write scalable maintanable and readable code keeping future developers in mind.
 
 Want to know more about me? [Check out my portfolio.](https://austincondiff.com/)
 
-<br>
-
-<a href="https://github.com/austincondiff">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=austincondiff&hide_border=true&show_icons=true&line_height=28&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=58a6ff&bg_color=161b22" alt="Austin's GitHub Stats" />
-</a>
-
-<br>
-
-## 💼 Skills
+## `💪🏻` Skills
 
 ### Code
 
@@ -72,3 +64,11 @@ Want to know more about me? [Check out my portfolio.](https://austincondiff.com/
 ![](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira-Software&logoColor=white)
 ![](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=white)
+
+## `🤓` Stats
+
+<br>
+
+<a href="https://github.com/austincondiff">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=austincondiff&hide_border=true&show_icons=true&line_height=28&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=58a6ff&bg_color=161b22" alt="Austin's GitHub Stats" />
+</a>
