@@ -1,11 +1,14 @@
 [![Austin's GitHub Profile Header](./assets/GitHubHeader.jpg)](https://austincondiff.com)
 
 [![Visits Badge](https://badges.pufler.dev/visits/austincondiff/austincondiff)](https://austincondiff.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://codesandbox.com/austincondiff)
-[![Dribbble Badge](https://img.shields.io/badge/Dribbble-Profile-informational?style=flat&logo=dribbble&logoColor=white&color=EA4C89)](https://dribbble.com/austincondiff)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/austin-condiff/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/austincondiff)
-[![Codesandbox Badge](https://img.shields.io/badge/CodeSandbox-Profile-informational?style=flat&logo=codesandbox&logoColor=white&color=black)](https://codepen.io/austincondiff)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1CA2F1?style=for-the-badge&logo=twitter&logoColor=white)](https://codesandbox.com/austincondiff)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/austin.condiff)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/austincondiff)
+[![Dribbble Badge](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/austincondiff)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0D76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austin-condiff/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/austincondiff)
+[![Codesandbox Badge](https://img.shields.io/badge/CodeSandbox-black?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codepen.io/austincondiff)
+
 
 Howdy! 👋
 
@@ -25,45 +28,45 @@ Want to know more about me? [Check out my portfolio.](https://austincondiff.com/
 
 ### Code
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=E10098)
-![](https://img.shields.io/badge/Code-Apollo_GraphQL-informational?style=flat&logo=apollographql&logoColor=white&color=311C87)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=764ABC)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=663399)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3178C6)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=47A248)
-![](https://img.shields.io/badge/Code-Babel-informational?style=flat&logo=Babel&logoColor=white&color=F9DC3E)
-![](https://img.shields.io/badge/Code-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=8DD6F9)
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
+![](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=black)
+![](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black)
 
 ### Style
 
-![](https://img.shields.io/badge/Style-Styled_Components-informational?style=flat&logo=styled-components&logoColor=white&color=DB7093)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=CC6699)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=333333)
+![](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
+![](https://img.shields.io/badge/Stylus-333333?style=for-the-badge&logo=Stylus&logoColor=white)
 
 ### Test
 
-![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=8A4182)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=C21325)
+![](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
+![](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Tools
 
-![](https://img.shields.io/badge/Code-Vercel-informational?style=flat&logo=Vercel&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=CB3837)
-![](https://img.shields.io/badge/Tools-Storybook-informational?style=flat&logo=Storybook&logoColor=white&color=FF4785)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=FF6C37)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=31A8FF)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=FF9A00)
-![](https://img.shields.io/badge/Tools-Sketch-informational?style=flat&logo=Sketch&logoColor=white&color=F7B500)
-![](https://img.shields.io/badge/Tools-Framer-informational?style=flat&logo=Framer&logoColor=white&color=0055FF)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=FF61F6)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=181717)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=FCA121)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=0052CC)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=0052CC)
-![](https://img.shields.io/badge/Tools-Confluence-informational?style=flat&logo=Confluence&logoColor=white&color=0052CC)
+![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
+![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
+![](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)
+![](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=Sketch&logoColor=white)
+![](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white)
+![](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=Adobe-XD&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=GitLab&logoColor=white)
+![](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)
+![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira-Software&logoColor=white)
+![](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=white)
