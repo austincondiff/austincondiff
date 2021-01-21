@@ -64,7 +64,7 @@ Want to know more about me? [Check out my portfolio.](https://austincondiff.com/
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
 ![](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)
-![](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=Sketch&logoColor=white)
+![](https://img.shields.io/badge/Sketch-fa6400?style=for-the-badge&logo=Sketch&logoColor=white)
 ![](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white)
 ![](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=Adobe-XD&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
