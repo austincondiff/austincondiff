@@ -1,6 +1,6 @@
 [![Austin's GitHub Profile Header](./assets/GitHubHeader.jpg)](https://austincondiff.com)
 
-[![Visits Badge](https://badges.pufler.dev/visits/austincondiff/austincondiff)](https://austincondiff.com)
+[![Visits Badge](https://badges.pufler.dev/visits/austincondiff/austincondiff?style=for-the-badge)](https://austincondiff.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1CA2F1?style=for-the-badge&logo=twitter&logoColor=white)](https://codesandbox.com/austincondiff)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/austin.condiff)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/austincondiff)
