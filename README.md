@@ -7,7 +7,8 @@
 [![Dribbble Badge](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/austincondiff)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0D76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austin-condiff/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/austincondiff)
-[![Codesandbox Badge](https://img.shields.io/badge/CodeSandbox-black?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codepen.io/austincondiff)
+[![Codesandbox Badge](https://img.shields.io/badge/CodeSandbox-black?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/austincondiff)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/acondiff)
 
 
 Howdy! 👋
@@ -28,7 +29,7 @@ Want to know more about me? [Check out my portfolio.](https://austincondiff.com/
 
 ### Code
 
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
 ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
