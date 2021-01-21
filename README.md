@@ -1,6 +1,5 @@
 [![Austin's GitHub Profile Header](./assets/GitHubHeader.jpg)](https://austincondiff.com)
 
-[![Visits Badge](https://badges.pufler.dev/visits/austincondiff/austincondiff?style=for-the-badge)](https://austincondiff.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1CA2F1?style=for-the-badge&logo=twitter&logoColor=white)](https://codesandbox.com/austincondiff)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/austin.condiff)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/austincondiff)
@@ -9,6 +8,8 @@
 [![CodePen Badge](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/austincondiff)
 [![Codesandbox Badge](https://img.shields.io/badge/CodeSandbox-black?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/austincondiff)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/acondiff)
+
+[![Visits Badge](https://badges.pufler.dev/visits/austincondiff/austincondiff?style=for-the-badge)](https://austincondiff.com)
 
 
 Howdy! 👋
