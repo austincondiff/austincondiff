@@ -14,7 +14,7 @@
 
 ## `👋` Howdy! 
 
-I’m Austin, a senior UI designer and engineer, creative coder who specializes in front-end development. My goal is to create beautiful user-centric designs and translate them into pixel-perfect performant websites or applications. I strive to write scalable maintanable and readable code keeping future developers in mind.
+I’m Austin, a senior creative UI engineer specializing in front-end development. My goal is to create beautiful user-centric designs and translate them into pixel-perfect performant websites or applications. I strive to write scalable maintanable and readable code keeping future developers in mind.
 
 Want to know more about me? [Check out my portfolio.](https://austincondiff.com/)
 
