@@ -1,6 +1,6 @@
 [![Austin's GitHub Profile Header](./assets/GitHubHeader.jpg)](https://austincondiff.com)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1CA2F1?style=for-the-badge&logo=twitter&logoColor=white)](https://codesandbox.com/austincondiff)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1CA2F1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/austincondiff)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/austin.condiff)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/austincondiff)
 [![Dribbble Badge](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/austincondiff)
@@ -8,9 +8,6 @@
 [![CodePen Badge](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/austincondiff)
 [![Codesandbox Badge](https://img.shields.io/badge/CodeSandbox-black?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/austincondiff)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/acondiff)
-
-[![Visits Badge](https://badges.pufler.dev/visits/austincondiff/austincondiff?style=for-the-badge)](https://austincondiff.com)
-
 
 ## 👋 Howdy! 
 
@@ -23,7 +20,7 @@ Want to know more about me? [Check out my portfolio.](https://austincondiff.com/
 ### Code
 
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![](https://img.shields.io/badge/Swift-F05035?style=for-the-badge&logo=Swift&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![](https://img.shields.io/badge/Swift-F05035?style=for-the-badge&logo=Swift&logoColor=white)](https://www.swift.org/)
 [![](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=black)](https://babeljs.io/)
 [![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
