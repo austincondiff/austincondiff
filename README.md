@@ -1,4 +1,4 @@
-[![Austin's GitHub Profile Header](./assets/GitHubHeader.jpg)](https://austincondiff.com)
+[![Austin's GitHub Profile Header](https://user-images.githubusercontent.com/806104/208268622-1a5cfc84-a5b3-48a4-aa07-aa7521c9a476.png)](https://austincondiff.com)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1CA2F1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/austincondiff)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/austin.condiff)
